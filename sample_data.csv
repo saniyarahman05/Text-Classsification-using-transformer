@@ -1,0 +1,7 @@
+text,label
+"This is a positive review about the product",1
+"The product quality is excellent and worth the price",1
+"I am very satisfied with my purchase",1
+"This is a negative review about the product",0
+"The product quality is poor and not worth the price",0
+"I am very disappointed with my purchase",0 
